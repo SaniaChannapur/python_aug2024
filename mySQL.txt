@@ -1,0 +1,3 @@
+we connect the database via server 
+to connect to mySQL the connection URL is http:\\localhost:3306
+instance name is root 
